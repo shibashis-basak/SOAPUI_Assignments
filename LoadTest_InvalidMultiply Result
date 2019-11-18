@@ -1,0 +1,3 @@
+time,type,step,message
+2019-11-18 18:19:45,Message,,"LoadTest started at Mon Nov 18 18:19:45 IST 2019"
+2019-11-18 18:20:05,Message,,"LoadTest ended at Mon Nov 18 18:20:05 IST 2019"
