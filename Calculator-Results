@@ -1,0 +1,19 @@
+TestCase [Addition] started at 2019-11-18 14:44:15.466
+Step 1 [Addition] OK: took 841 ms
+Step 2 [InvalidInput_Addition] OK: took 307 ms
+TestCase [Addition] finished with status [FINISHED], time taken = 1148
+TestCase [Add] started at 2019-11-18 14:44:16.650
+TestCase [Add] finished with status [FINISHED], time taken = 329
+TestCase [Subtract] started at 2019-11-18 14:44:16.982
+Step 1 [Add] OK: took 329 ms
+TestCase [Subtract] finished with status [FINISHED], time taken = 308
+TestCase [Multiply] started at 2019-11-18 14:44:17.292
+Step 1 [Subtract] OK: took 308 ms
+TestCase [Multiply] finished with status [FINISHED], time taken = 302
+TestCase [Divide] started at 2019-11-18 14:44:17.598
+Step 1 [Multiply] OK: took 302 ms
+TestCase [Divide] finished with status [FINISHED], time taken = 301
+TestCase [InvalidMultiplication] started at 2019-11-18 14:44:17.901
+Step 1 [Divide] OK: took 301 ms
+TestCase [InvalidMultiplication] finished with status [FINISHED], time taken = 304
+Step 2 [InvalidMultiplication] OK: took 304 ms
